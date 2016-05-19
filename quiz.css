@@ -1,0 +1,46 @@
+/*Styling across major areas*/
+
+article {
+  width: 30%;
+  border: 1px solid lightblue;
+  display: inline-block;
+  margin: 2% 0 0 2%;
+}
+
+header {
+  border: 1px dotted lightgray;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image {
+  width: 120px;
+  height: 120px;
+  display: block;
+  margin: 0 auto;
+}
+
+.description {
+  text-align: justify;
+}
+
+.specs div p:first-child {
+  font-weight: bold;
+}
+
+.avail {
+  width: 100%;
+  background-color: darkgrey;
+  color: yellow;
+}
+
+footer p {
+  font-size: .8em;
+}
+
+
+
+/*Styling first card - yellow*/
+
